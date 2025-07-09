@@ -2,11 +2,11 @@
 
 **First-year Ph.D. Student of Pattern Recognition and Intelligent System**
 
-Institute of Automation, Chinese Academy of Sciences and Beijing Academy of Artificial Intelligence
+**Institute of Automation, Chinese Academy of Sciences and Beijing Academy of Artificial Intelligence**
 
-- **Email:** liyuanyuan2024@ia.ac.cn
+**Email:** liyuanyuan2024@ia.ac.cn
 
-[Google Scholar](#) / [Github](#)
+[Google Scholar](#) / [Github]([#](https://github.com/Yuanyuan-Lee))
 
 ## Biography
 
