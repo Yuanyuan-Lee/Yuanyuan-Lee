@@ -6,11 +6,11 @@
 
 **Email:** liyuanyuan2024@ia.ac.cn
 
-[Google Scholar](#) / [Github]([#https://github.com/Yuanyuan-Lee])
+[Github](https://github.com/Yuanyuan-Lee)
 
 ## Biography
 
-I am a first-year Ph.D. student at Institute of Automation, Chinese Academy of Sciences (CASIA) and Beijing Academy of Artificial Intelligence (BAAI), supervised by Ran He (Professor at CASIA) and Xinlong Wang (Researcher at BAAI). Before that, I received my B.E. degree in Automation at the School of Xian Jiaotong University (XJTU) in Jun. 2024.
+I am a first-year Ph.D. student at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/) and [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), supervised by Ran He (Professor at CASIA) and [Xinlong Wang](https://www.xloong.wang/) (Researcher at BAAI). Before that, I received my B.E. degree in Automation at the School of Xian Jiaotong University (XJTU) in Jun. 2024.
 
 ## Research
 
