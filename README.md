@@ -6,7 +6,7 @@
 
 **Email:** liyuanyuan2024@ia.ac.cn
 
-[Google Scholar](#) / [Github]([#](https://github.com/Yuanyuan-Lee))
+[Google Scholar](#) / [Github]([#https://github.com/Yuanyuan-Lee])
 
 ## Biography
 
