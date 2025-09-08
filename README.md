@@ -1,6 +1,6 @@
 # Yuanyuan Li / 李原原
 
-**First-year Ph.D. Student of Pattern Recognition and Intelligent System**
+**Second-year Ph.D. Student of Pattern Recognition and Intelligent System**
 
 **Institute of Automation, Chinese Academy of Sciences and Beijing Academy of Artificial Intelligence**
 
