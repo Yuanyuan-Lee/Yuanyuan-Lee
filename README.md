@@ -17,4 +17,4 @@ I am a first-year Ph.D. student at [Institute of Automation, Chinese Academy of 
 My research interests mainly lie in **Embodied AI** and **Multi-modal Large Language Models**. Particularly, I am interested in:
 
 - **Embodied AI:** Vision Language Action models
-- **Multi-modal Large Language Models:** Video generation
+- **Multi-modal Large Language Models:** Video generation, World Model
