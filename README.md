@@ -10,7 +10,7 @@
 
 ## Biography
 
-I am a first-year Ph.D. student at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/) and [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), supervised by [Ran He](https://people.ucas.ac.cn/~heran) (Professor at CASIA) and [Xinlong Wang](https://www.xloong.wang/) (Researcher at BAAI). Before that, I received my B.E. degree in Automation at Xian Jiaotong University (XJTU) in Jun. 2024.
+I am a second-year Ph.D. student at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/) and [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), supervised by [Ran He](https://people.ucas.ac.cn/~heran) (Professor at CASIA) and [Xinlong Wang](https://www.xloong.wang/) (Researcher at BAAI). Before that, I received my B.E. degree in Automation at Xian Jiaotong University (XJTU) in Jun. 2024.
 
 ## Research
 
