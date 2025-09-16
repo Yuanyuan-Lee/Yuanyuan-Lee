@@ -4,7 +4,7 @@
 
 **Institute of Automation, Chinese Academy of Sciences and Beijing Academy of Artificial Intelligence**
 
-**Email:** liyuanyuan2024@ia.ac.cn
+**Email:** liyuanyuan2024@ia.ac.cn/liyuanyuan241@mails.ucas.ac.cn/yuanyuan.li@nlpr.ia.ac.cn
 
 [Github](https://github.com/Yuanyuan-Lee)
 
